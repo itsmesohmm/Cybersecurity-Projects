@@ -2,7 +2,7 @@
 
 ## 🔐 About Me
 
-Hi! I'm a Security Researcher passionate about penetration testing, cyber forensics, and malware analysis. I break systems to secure them and investigate incidents to understand what went wrong. This portfolio showcases my cybersecurity projects, tools, and research aimed at making the digital world safer for everyone.
+Hi! I'm a Security Researcher passionate about penetration testing, with interests in cyber forensics and malware analysis. I love tackling challenges with an attacker’s mindset to strengthen security and help make the digital world safer for everyone!
 
 ## 🛠️ Portfolio Structure
 
