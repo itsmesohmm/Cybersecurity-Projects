@@ -1,13 +1,16 @@
-# 🛡️ Welcome to My Cybersecurity Portfolio
+# 🛡️ Welcome!
 
 ## 🔐 About Me
 
-Hi! I'm a Security Researcher passionate about penetration testing, with interests in cyber forensics and malware analysis. I love tackling challenges with an attacker’s mindset to strengthen security and help make the digital world safer for everyone!
+Hi! I’m passionate about cybersecurity because it challenges me to think outside the box. I specialize in Cyber Threat Intelligence, with additional interests in Digital Forensics and Incident Response. Along with my technical skills, I excel at managing projects from planning to execution, focusing on optimizing team productivity and ensuring timely delivery. My ultimate objective is to make the cyber world a safer place for everyone.
 
 ## 🛠️ Portfolio Structure
 
 ### 1. Malware Analysis
 Deep dives into malware behavior, reverse engineering, and mitigation techniques. This section includes tools, scripts, and case studies on dissecting and understanding malware.
+
+### 2. Case Studies
+Consists of reports on all kinds of incidents and events.
 
 
 
